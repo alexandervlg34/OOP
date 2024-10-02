@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\bookdepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:bookdepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\playerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:playerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:29:57.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Train.cs",
+              "RelativeDocumentMoniker": "Train.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Train.cs",
+              "RelativeToolTip": "Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:54:49.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Railcar.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Railcar.cs",
+              "RelativeDocumentMoniker": "Railcar.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Railcar.cs",
+              "RelativeToolTip": "Railcar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:03:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:46:45.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Seller.cs",
+              "RelativeDocumentMoniker": "Seller.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Seller.cs",
+              "RelativeToolTip": "Seller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:51:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:13:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:03:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookDepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\BookDepository.cs",
+              "RelativeDocumentMoniker": "BookDepository.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\BookDepository.cs",
+              "RelativeToolTip": "BookDepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:14:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:04:16.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardGame.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\CardGame.cs",
+              "RelativeDocumentMoniker": "CardGame.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\CardGame.cs",
+              "RelativeToolTip": "CardGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:19:14.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:02:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerPosition.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\PlayerPosition.cs",
+              "RelativeDocumentMoniker": "PlayerPosition.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\PlayerPosition.cs",
+              "RelativeToolTip": "PlayerPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:01:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DrawPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\DrawPlayer.cs",
+              "RelativeDocumentMoniker": "DrawPlayer.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\DrawPlayer.cs",
+              "RelativeToolTip": "DrawPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:05:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:59:33.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:55:33.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
