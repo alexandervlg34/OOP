@@ -8,7 +8,7 @@ namespace OOP
 {
     public class Customer
     {
-        List<Product> purchasedItems = new List<Product>();
+        private List<Product> purchasedItems = new List<Product>(); // модификатор доступа
 
         public void AddPurchasedItem(Product product)
         {

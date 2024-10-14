@@ -11,7 +11,7 @@ namespace OOP
         OnStation,
         OnTheMove
     }
-    public class Manager
+    public class TrainControlManager
     {
         private int numberOfPassengers;
 

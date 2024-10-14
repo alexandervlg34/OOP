@@ -15,7 +15,7 @@ namespace OOP
         Player player4 = new Player(4, "Vito", 100, true);
         Player player5 = new Player(5, "Kevin", 34, false);
 
-        List<Player> players = new List<Player>();
+        private List<Player> players = new List<Player>();
 
         public void AddPlayer(Player player)
         {
@@ -24,7 +24,14 @@ namespace OOP
 
         public void RemovePlayer(Player player)
         {
-            players.Remove(player);
+            foreach (Player playerFromList in players)
+            {
+                if (playerFromList == player) // playerFromList.Equals(player)
+                {
+                    players.Remove(player);
+                }
+            }
+            
         }
 
         public void BanByID(Player player, int id)
@@ -33,6 +40,10 @@ namespace OOP
             {
                 player.IsBanned = true;
             }
+            else
+            {
+                Console.WriteLine("Игрок с таким ID не найден");
+            }
         }
 
         public void UnBanByID(Player player, int id)
@@ -40,6 +51,10 @@ namespace OOP
             if (player.Id == id)
             {
                 player.IsBanned = false;
+            }
+            else
+            {
+                Console.WriteLine("Игрок с таким ID не найден");
             }
         }
     }

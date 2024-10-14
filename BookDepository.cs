@@ -8,28 +8,38 @@ namespace OOP
 {
     public class BookDepository
     {
-        public List<Book> books = new List<Book>();
+        private List<Book> books = new List<Book>(); // public -> private
 
         Book book1 = new Book("The Lord of the Rings", "Tolkien", 1954);
         Book book2 = new Book("The Hobbit, or There and Back Again", "Tolkien", 1937);
         Book book3 = new Book("Ferrari. Meet the Legend", "Saverio Villa", 2020);
 
-
-        public void CreateBookDepository()
+        public BookDepository()
         {
             books.Add(book1);
             books.Add(book2);
             books.Add(book3);
         }
 
+        /* public void CreateBookDepository()
+        {
+            books.Add(book1);
+            books.Add(book2);
+            books.Add(book3);
+        }
+        */
         public void AddBook(Book book)
         {
             books.Add(book);
         }
 
-        public void RemoveBook(Book book)
+        public void RemoveBook(Book book) 
         {
-            books.Remove(book);
+            if (books.Contains(book)) // repository.RemoveBook(new Book())
+            {
+                books.Remove(book);
+            }
+            
         }
 
         public void ShowAllBooks()

@@ -8,13 +8,11 @@ namespace OOP
 {
     public class Book
     {
-        private string name;
-        private string author;
-        private int yearOfRelease;
+        
 
-        public string Name {  get { return name; } }
-        public string Author { get { return author; } }
-        public int YearOfRelease {  get { return yearOfRelease; } }
+        public string Name { get; set; }
+        public string Author { get; set; }
+        public int YearOfRelease { get; set; }
 
         public Book()
         {
@@ -22,9 +20,9 @@ namespace OOP
         }
         public Book(string name, string author, int yearOfRelease)
         {
-            this.name = name;
-            this.author = author;
-            this.yearOfRelease = yearOfRelease;
+            Name = name;
+            Author = author;
+            YearOfRelease = yearOfRelease;
         }
 
     }

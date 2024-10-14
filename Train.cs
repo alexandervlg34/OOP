@@ -8,13 +8,13 @@ namespace OOP
 {
     public class Train
     {
-        List<Railcar> railCars = new List<Railcar>();
-        Railcar Railcar = new Railcar();
-        Manager Manager = new Manager();
+        private List<Railcar> railCars = new List<Railcar>(); // модификаторы доступа
+        private Railcar Railcar = new Railcar();
+        private TrainControlManager TrainControlManager = new TrainControlManager();
 
         public void AddRailCars()
         {
-           for (int i = 0; i < Math.Ceiling((float)(Railcar.Seats.Length / Manager.NumberOfPassengers)); i++)
+           for (int i = 0; i < Math.Ceiling((float)(Railcar.Seats.Length / TrainControlManager.NumberOfPassengers)); i++)
             {
                 Railcar Railcar = new Railcar();
                 railCars.Add(Railcar);

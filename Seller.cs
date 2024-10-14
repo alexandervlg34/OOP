@@ -8,11 +8,11 @@ namespace OOP
 {
     internal class Seller
     {
-        Product iPhone = new Product(TypeofProduct.IPhone);
-        Product iPad = new Product(TypeofProduct.IPad);
-        Product macBook = new Product(TypeofProduct.MacBook);
+        private Product iPhone = new Product(TypeofProduct.IPhone); // модификаторы доступа
+        private Product iPad = new Product(TypeofProduct.IPad);
+        private Product macBook = new Product(TypeofProduct.MacBook);
 
-        List<Product> products = new List<Product>();
+        private List<Product> products = new List<Product>(); 
 
         public void AddProducts()
         {

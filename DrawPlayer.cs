@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
-    public class DrawPlayer
+    public class PlayerDrawer
     {
         PlayerPosition PlayerPosition = new PlayerPosition();
         public void Draw()

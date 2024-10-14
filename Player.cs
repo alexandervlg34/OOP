@@ -15,7 +15,7 @@ namespace OOP
         private bool isBanned;
 
         public int Id {  get { return id; } }
-        public bool IsBanned {  get { return isBanned; } set { isBanned = value; } }
+        public bool IsBanned { get; private set; }
         
         public Player(int id, string name, int level, bool isBanned)
         {

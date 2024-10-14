@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +15,32 @@
       "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:cardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:railcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +51,12 @@
       "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:bookdepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:drawplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{057D74D3-0D7F-4712-AA6A-C3428A5BC671}|OOP.csproj|c:\\users\\aleks\\source\\repos\\oop\\playerposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,15 +74,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Manager.cs",
               "RelativeToolTip": "Manager.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:29:57.775Z"
+              "WhenOpened": "2024-09-30T13:29:57.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,14 +93,14 @@
               "RelativeDocumentMoniker": "Train.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Train.cs",
               "RelativeToolTip": "Train.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T08:54:49.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Railcar.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Railcar.cs",
               "RelativeDocumentMoniker": "Railcar.cs",
@@ -112,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Direction.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Direction.cs",
               "RelativeDocumentMoniker": "Direction.cs",
@@ -120,23 +121,25 @@
               "RelativeToolTip": "Direction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:46:45.505Z"
+              "WhenOpened": "2024-09-30T07:46:45.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Seller.cs",
               "RelativeDocumentMoniker": "Seller.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Seller.cs",
               "RelativeToolTip": "Seller.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:51:15.351Z"
+              "WhenOpened": "2024-09-27T08:51:15.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -148,43 +151,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:03:24.625Z"
+              "WhenOpened": "2024-09-27T08:03:24.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BookDepository.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\BookDepository.cs",
               "RelativeDocumentMoniker": "BookDepository.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\BookDepository.cs",
               "RelativeToolTip": "BookDepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwBsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:14:21.771Z"
+              "WhenOpened": "2024-09-26T11:14:21.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:04:16.679Z"
+              "WhenOpened": "2024-09-26T11:04:16.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CardGame.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\CardGame.cs",
               "RelativeDocumentMoniker": "CardGame.cs",
@@ -192,19 +198,21 @@
               "RelativeToolTip": "CardGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:19:14.594Z"
+              "WhenOpened": "2024-09-24T16:19:14.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\DataBase.cs",
               "RelativeDocumentMoniker": "DataBase.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\DataBase.cs",
               "RelativeToolTip": "DataBase.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:02:23.582Z"
+              "WhenOpened": "2024-09-24T10:02:23.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -220,31 +228,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "DrawPlayer.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\DrawPlayer.cs",
               "RelativeDocumentMoniker": "DrawPlayer.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\DrawPlayer.cs",
               "RelativeToolTip": "DrawPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:05:28.74Z"
+              "WhenOpened": "2024-09-24T09:05:28.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\aleks\\source\\repos\\OOP\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:59:33.141Z"
+              "WhenOpened": "2024-09-24T06:59:33.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -252,8 +262,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T06:55:33.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T06:55:33.571Z"
             }
           ]
         }
